@@ -118,8 +118,8 @@ importers:
         specifier: ^0.27.1
         version: 0.27.1
       jiti:
-        specifier: ^2.3.3
-        version: 2.3.3
+        specifier: ^2.4.0
+        version: 2.4.0
       postcss:
         specifier: ^8.4.47
         version: 8.4.47
@@ -1779,8 +1779,8 @@ packages:
   is-arrayish@0.3.2:
     resolution: {integrity: sha512-eVRqCvVlZbuw3GrM63ovNSNAeA1K16kaR/LRY/92w0zxQ5/1YzwblUX652i4Xs9RwAGjW9d9y6X88t8OaAJfWQ==}
 
-  jiti@2.3.3:
-    resolution: {integrity: sha512-EX4oNDwcXSivPrw2qKH2LB5PoFxEvgtv2JgwW0bU858HoLQ+kutSvjLMUqBd0PeJYEinLWhoI9Ol0eYMqj/wNQ==}
+  jiti@2.4.0:
+    resolution: {integrity: sha512-H5UpaUI+aHOqZXlYOaFP/8AzKsg+guWu+Pr3Y8i7+Y3zr1aXAvCvTAQ1RxSc6oVD8R8c7brgNtTVP91E7upH/g==}
     hasBin: true
 
   js-base64@3.7.7:
@@ -3144,7 +3144,7 @@ snapshots:
   '@tailwindcss/node@4.0.0-alpha.31':
     dependencies:
       enhanced-resolve: 5.17.1
-      jiti: 2.3.3
+      jiti: 2.4.0
 
   '@tailwindcss/oxide-android-arm64@4.0.0-alpha.31':
     optional: true
@@ -3423,7 +3423,7 @@ snapshots:
   is-arrayish@0.3.2:
     optional: true
 
-  jiti@2.3.3: {}
+  jiti@2.4.0: {}
 
   js-base64@3.7.7:
     optional: true
